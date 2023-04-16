@@ -1,6 +1,6 @@
 # Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-I'm currently primarily focused on building and maintaining Houdini, a GraphQL client:
+I'm currently primarily focused on Houdini, a GraphQL client:
 
 [![Houdini](https://github-readme-stats.vercel.app/api/pin/?username=houdinigraphql&repo=houdini&theme=dark)](https://github.com/houdinigraphql/houdini)
 
