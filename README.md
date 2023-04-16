@@ -10,5 +10,7 @@ Over the years, I've created a few projects you might be interested in:
 
 [![Nautilus Gateway](https://github-readme-stats.vercel.app/api/pin/?username=nautilus&repo=gateway&theme=dark)](https://github.com/nautilus/gateway)
 
+[![Redux-Responsive](https://github-readme-stats.vercel.app/api/pin/?username=alecaivazis&repo=redux-responsive&theme=dark)](https://github.com/alecaivazis/redux-responsive)
+
 [![Feynman Online](https://github-readme-stats.vercel.app/api/pin/?username=AlecAivazis&repo=feynman&theme=dark)](https://github.com/AlecAivazis/feynman)
 
